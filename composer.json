@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.5",
+        "usmanhalalit/pixie": "^2.0",
+        "symfony/var-dumper": "^3.2"
+    }
+}
